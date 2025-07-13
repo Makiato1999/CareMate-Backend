@@ -1,0 +1,41 @@
+CareMate Backend
+Copyright 2024 CareMate Team
+
+This product includes software developed by:
+
+Spring Boot (https://spring.io/)
+Copyright 2012-2024 Pivotal Software, Inc.
+Licensed under the Apache License, Version 2.0
+
+MyBatis-Plus (https://mybatis.plus/)
+Copyright 2010-2024 The MyBatis Team
+Licensed under the Apache License, Version 2.0
+
+MySQL Connector/J (https://dev.mysql.com/doc/connector-j/)
+Copyright 2000-2024 Oracle and/or its affiliates
+Licensed under the GPL License
+
+Redis (https://redis.io/)
+Copyright 2009-2024 Salvatore Sanfilippo
+Licensed under the BSD 3-Clause License
+
+JWT (https://github.com/jwtk/jjwt)
+Copyright 2013-2024 JWT contributors
+Licensed under the Apache License, Version 2.0
+
+Knife4j (https://doc.xiaominfo.com/)
+Copyright 2018-2024 xiaoymin
+Licensed under the Apache License, Version 2.0
+
+Hutool (https://hutool.cn/)
+Copyright 2017-2024 Looly
+Licensed under the Apache License, Version 2.0
+
+This product may also include other open source software components.
+Please refer to the individual component licenses for more information.
+
+Trademarks:
+- CareMate is a trademark of CareMate Team
+- Spring Boot is a trademark of Pivotal Software, Inc.
+- MySQL is a trademark of Oracle Corporation
+- Redis is a trademark of Redis Ltd. 

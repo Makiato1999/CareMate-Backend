@@ -1,0 +1,15 @@
+/Users/xiexiaoran/Documents/GitHub-localhost/CareMate/CareMate-Backend/src/main/java/com/caremate/constant/UserType.java
+/Users/xiexiaoran/Documents/GitHub-localhost/CareMate/CareMate-Backend/src/main/java/com/caremate/exception/GlobalExceptionHandler.java
+/Users/xiexiaoran/Documents/GitHub-localhost/CareMate/CareMate-Backend/src/main/java/com/caremate/config/WechatConfig.java
+/Users/xiexiaoran/Documents/GitHub-localhost/CareMate/CareMate-Backend/src/main/java/com/caremate/dto/request/WechatLoginRequest.java
+/Users/xiexiaoran/Documents/GitHub-localhost/CareMate/CareMate-Backend/src/main/java/com/caremate/util/JwtUtil.java
+/Users/xiexiaoran/Documents/GitHub-localhost/CareMate/CareMate-Backend/src/main/java/com/caremate/service/impl/AuthServiceImpl.java
+/Users/xiexiaoran/Documents/GitHub-localhost/CareMate/CareMate-Backend/src/main/java/com/caremate/dto/response/LoginResponse.java
+/Users/xiexiaoran/Documents/GitHub-localhost/CareMate/CareMate-Backend/src/main/java/com/caremate/service/AuthService.java
+/Users/xiexiaoran/Documents/GitHub-localhost/CareMate/CareMate-Backend/src/main/java/com/caremate/common/result/Result.java
+/Users/xiexiaoran/Documents/GitHub-localhost/CareMate/CareMate-Backend/src/main/java/com/caremate/exception/BusinessException.java
+/Users/xiexiaoran/Documents/GitHub-localhost/CareMate/CareMate-Backend/src/main/java/com/caremate/config/WebConfig.java
+/Users/xiexiaoran/Documents/GitHub-localhost/CareMate/CareMate-Backend/src/main/java/com/caremate/config/JwtConfig.java
+/Users/xiexiaoran/Documents/GitHub-localhost/CareMate/CareMate-Backend/src/main/java/com/caremate/interceptor/AuthInterceptor.java
+/Users/xiexiaoran/Documents/GitHub-localhost/CareMate/CareMate-Backend/src/main/java/com/caremate/CareMateApplication.java
+/Users/xiexiaoran/Documents/GitHub-localhost/CareMate/CareMate-Backend/src/main/java/com/caremate/controller/AuthController.java
